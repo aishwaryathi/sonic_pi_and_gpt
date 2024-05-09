@@ -4,42 +4,6 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Musical Chatbot for Sonic Pi Powered through GPT</title>
-    <style>
-      body {
-        font-family: "Arial", sans-serif;
-        margin: 20px;
-        background-color: #f4f4f9;
-        color: #333;
-      }
-      h1,
-      h2 {
-        color: #5a5a5a;
-      }
-      h1 {
-        text-align: center;
-      }
-      h2 {
-        margin-top: 20px;
-      }
-      p {
-        margin: 20px;
-        line-height: 1.6;
-      }
-      section {
-        background: white;
-        border: 1px solid #ccc;
-        padding: 20px;
-        border-radius: 8px;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-      }
-      footer {
-        text-align: center;
-        padding: 20px;
-        margin-top: 20px;
-        font-size: 0.9em;
-        color: #555;
-      }
-    </style>
   </head>
   <body>
     <header>
