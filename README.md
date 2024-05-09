@@ -7,6 +7,7 @@
   </head>
   <body>
     <header>
+      <h1>Video Demo: https://youtu.be/tPoTf8IxrQ0 </h1>
       <h1>Musical Chatbot for Sonic Pi Powered through GPT</h1>
     </header>
     <section>
