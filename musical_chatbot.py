@@ -32,7 +32,7 @@ sonic_pi_ip = "127.0.0.1"
 sonic_pi_port = 4560
 osc_client = udp_client.SimpleUDPClient(sonic_pi_ip, sonic_pi_port)
 setup_instructions = """
-Great! Let’s make some music. I'm going to guide you through how to set up your environment in Sonic Pi so you can start creating your own beats and melodies.
+I'm going to guide you through how to set up your environment in Sonic Pi so you can start creating your own beats and melodies.
 
 Here are the steps we'll follow:
 1. Open Sonic Pi: Make sure Sonic Pi is running on your computer. You can download it from the Sonic Pi website if you haven't installed it yet.
